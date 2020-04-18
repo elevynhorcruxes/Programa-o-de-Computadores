@@ -1,0 +1,37 @@
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.exe.config
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.exe
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.pdb
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csprojAssemblyReference.cache
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.Abertura.resources
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.Properties.Resources.resources
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csproj.GenerateResource.cache
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.exe
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.pdb
+F:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.fmrMenu.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.exe.config
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.exe
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\bin\Debug\Livros.pdb
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csprojAssemblyReference.cache
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.Abertura.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.fmrLivraria.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.fmrLivros.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.fmrMenu.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.Properties.Resources.resources
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csproj.GenerateResource.cache
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.exe
+G:\2º Info\Ensino Técnico\LPOOOOOOOOOOOOOOO\4º Bimestre\Livros\Livros\obj\Debug\Livros.pdb
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\bin\Debug\Livros.exe.config
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.exe
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.pdb
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\bin\Debug\Livros.exe
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\bin\Debug\Livros.pdb
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.csprojAssemblyReference.cache
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.Abertura.resources
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.fmrLivraria.resources
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.fmrLivros.resources
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.fmrMenu.resources
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.Properties.Resources.resources
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.csproj.GenerateResource.cache
+G:\3º INFO\[PC] Programação de Computadores\Livros\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
